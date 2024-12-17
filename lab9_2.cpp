@@ -16,7 +16,7 @@ void printO(int N, int M)
  }
     else
     {
-    cout << "Invalid input";
+    cout << "Invalid input"; 
  }
 }
 
