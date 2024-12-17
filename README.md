@@ -1,1 +1,2 @@
-# Lab9com_pro
+# NAME:พีรยา ใจหล้า
+# STUDENT ID:650610849
